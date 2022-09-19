@@ -7,6 +7,7 @@
 - html
 - css
 - node.js
+- php
 #### I had also been worked on some web app frameworks such as 
 - reactjs
 - nextjs
