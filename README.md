@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @Aashutosh0068
--  I’m interested in Full Stack Development
-- I’m currently learning python
-#### But do not think I am a beginner I had learnt the following language
-- Java
+- I’m interested in Full Stack Development
+- I’m currently learning c++
+#### But don't think that I am a beginner I had learnt the following language
+- Python
 - Javascript
 - html
 - css
